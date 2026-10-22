@@ -1,0 +1,16 @@
+.DS_Store
+._*
+
+build/
+bin/
+*.o
+*.out
+*.exe
+*.dSYM/
+cmake-build-*/
+
+.idea/
+.vscode/
+*.swp
+.github/
+copilot-reference-material/

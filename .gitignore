@@ -14,3 +14,4 @@ cmake-build-*/
 *.swp
 .github/
 copilot-reference-material/
+AGENTS.md
